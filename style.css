@@ -55,6 +55,9 @@ input::-o-outer-spin-button {
 	-o-appearance: none;
 	margin:0
 }
+a {
+    text-decoration: none;
+}
 .remove {
     display: none !important;
 }
